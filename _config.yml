@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            @projectgheist
+title:            '@projectgheist'
 tagline:          'A code developmenet blog'
 description:      'Brain dump of code exploration'
 url:              http://projectgheist.github.io/
