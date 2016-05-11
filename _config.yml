@@ -10,13 +10,10 @@ tagline:          'A code developmenet blog'
 description:      'Brain dump of code exploration'
 url:              http://projectgheist.github.io/
 baseurl:          /
-future:			  true
 
 author:
   name:           'ProjectGheist'
   url:            http://projectgheist.github.io/
-
-paginate:         5
 
 # Custom vars
 version:          2.1.0
@@ -25,3 +22,5 @@ github:
   repo:           https://github.com/projectgheist/projectgheist.github.io
 
 gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page:num"
