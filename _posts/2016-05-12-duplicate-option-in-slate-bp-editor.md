@@ -5,7 +5,7 @@
 
 Since I use a lot of the same objects in Slate every time, in the same tree, I have to copy and paste the elements every time. I decided that I would add a duplicate Slate element button to the Widget blueprint editor.
 
-## Feature
+## Implementation
 
 The first step is to add the button to the mouse menu when right clicking on a tree element. That mouse menu is created in `FWidgetBlueprintEditorUtils::CreateWidgetContextMenu`. We add the duplicate functionality in the `Edit` category during the construction of it.
 
