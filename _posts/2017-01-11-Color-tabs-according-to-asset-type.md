@@ -3,9 +3,9 @@
 
 ## Feature
 
-A new feature that was requested on Unreal Engine 4's issues page, in which a user requested the ability to have the tabs in the editor colorized according to the asset type. This seemed like a really usefull feature and wanted to implement in the engine ASAP.
+A new feature that was requested on Unreal Engine 4's issues page, in which a user requested the ability to have the tabs in the editor colorized according to the asset type. This seemed like a really usefull feature and I wanted implement it in the engine ASAP.
 
-After a bit of research and 15 minutes of coding, I was able to get the following result;
+After a bit of research and coding, I was able to get the following result;
 
 ![alt text](https://cloud.githubusercontent.com/assets/3892568/21850159/21524864-d801-11e6-9607-68d74985de84.png "ue4editor_2017-01-11_11-39-07")
 
